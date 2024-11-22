@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @naresh
+- 👋 Hi, I’m @naresh (Naresh Udugula)
 - 👀 I’m interested in Data Analytics and Machine Learning. 
 - 🌱 I’m currently learning advanced SQL, Power BI, and Data Science concepts to enhance my skill set.
 - 💞️ I’m looking to collaborate on projects that involve innovative data analysis and predictive modeling.
